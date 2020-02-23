@@ -6,3 +6,4 @@
 RUN
 - cd Assigment2.3_digimonshop
 - serve
+- http://localhost:5000/digimonshop
