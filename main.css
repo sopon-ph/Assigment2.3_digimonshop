@@ -1,0 +1,46 @@
+.body {
+    background-color:#f5f4ed;
+    padding: 2em;
+    font-family: 'Raleway','Source Sans Pro', 'Arial';
+}
+
+.box {  
+    font-family: 'Raleway','Source Sans Pro', 'Arial Black';
+}
+.table{
+    background-color:rgb(32, 32, 32);
+    margin:10px;
+}
+
+label {
+    display:block;
+    margin-bottom:5px;
+    font-weight: bold;
+}
+input {
+    padding:10px;
+    width: 100%;
+    margin-bottom: 1em;
+}
+.button {
+    background-color:rgb(233, 66, 15);
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-family: 'Raleway','Source Sans Pro', 'Arial';
+}
+img{
+    background-color:#fff;
+    margin:6px;
+}
+font{
+    margin:10px;
+}
+#result {
+    padding:1em;
+    background-color:#fff;
+    margin: 1em 0;
+}
