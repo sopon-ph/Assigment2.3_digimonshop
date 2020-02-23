@@ -1,7 +1,7 @@
 # Assigment2.3
 วิธีลง 
-- cd DigimonShop
+- cd Assigment2.3_digimonshop
 - npm install -g serve
 RUN
-- cd DigimonShop
+- cd Assigment2.3_digimonshop
 - serve
