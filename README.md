@@ -1,9 +1,9 @@
-# Assigment2.3
+# Assignment2.3
 วิธีลง 
-- cd Assigment2.3_digimonshop
+- cd Assignment2.3_digimonshop
 - npm install -g serve
 
 RUN
-- cd Assigment2.3_digimonshop
+- cd Assignment2.3_digimonshop
 - serve
 - http://localhost:5000/digimonshop
